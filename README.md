@@ -1,0 +1,1 @@
+To execute an inversed-indexing program with MapReduce. Inversed indexing method is a batch processing method that is used to sort documents for each keyword. It’s aim is to find the document which has the intersection of all the keywords.
